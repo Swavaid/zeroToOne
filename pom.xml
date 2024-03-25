@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.zto</groupId>
+    <artifactId>zto</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <name>zto</name>
+    <description>ztoIntegrity</description>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>zto-coupon</module>
+        <module>zto-ware</module>
+        <module>zto-member</module>
+        <module>zto-product</module>
+        <module>zto-order</module>
+    </modules>
+
+</project>
